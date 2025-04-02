@@ -13,6 +13,7 @@ Welcome to the **Local-Music-Spectrogram-Gen**—a powerful Bash script designed
 Before running the script, ensure you have **FFmpeg** installed:
 #### Termux (Android)
 ```bash
+termux-setup-storage
 pkg update && pkg upgrade
 pkg install ffmpeg
 ```
@@ -33,6 +34,15 @@ chmod +x spectrogram.sh
 By default, the script uses:
 ```bash
 $HOME/storage/music
+```
+
+### For Termux users you need to follow path like:
+```bash
+$HOME/storage/music
+```
+if it's in music folder in internal storage. Or else:
+```bash
+$HOME/storage/shared/{your_folder}
 ```
 #### To use a custom path, set the `MUSIC_DIR` environment variable:
 ```bash
