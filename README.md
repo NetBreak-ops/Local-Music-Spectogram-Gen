@@ -56,6 +56,10 @@ Alternatively, you can **edit the script** directly to set a permanent path.
 ```
 - Automatically processes all audio files in a directory.
 
+- ![image alt](https://github.com/NetBreak-ops/Local-Music-Spectrogram-Gen/blob/d819e8bb386407896b9173768ec30550fad33f99/img/1743625703969.jpg) 
+ ![image alt](https://github.com/NetBreak-ops/Local-Music-Spectrogram-Gen/blob/d819e8bb386407896b9173768ec30550fad33f99/img/1743625692532.jpg)
+ ![image alt](https://github.com/NetBreak-ops/Local-Music-Spectrogram-Gen/blob/d819e8bb386407896b9173768ec30550fad33f99/img/1743625659321.jpg)
+
 ### **Where are Spectrograms Saved?**
 All spectrograms are stored inside a `Spectrograms` folder within the same directory as the processed audio files.
 
