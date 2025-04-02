@@ -1,6 +1,7 @@
 # Introduction
 
-Welcome to the **Local-Music-Spectrogram-Gen**—a powerful Bash script designed to convert audio files into spectrogram images using FFmpeg. This tool is ideal for users on **Android Termux, Linux, and macOS** who want a simple and efficient way to visualize sound.## 🚀 Features- 🎼 **Supports multiple audio formats**: MP3, AAC, M4A, FLAC, WAV, OGG, OPUS.- 🗂️ **Process individual files or entire folders**.
+Welcome to the **Local-Music-Spectrogram-Gen**—a powerful Bash script designed to convert Local audio files into spectrogram images using FFmpeg. This tool is ideal for users on **Android Termux, Linux, and macOS** who want a simple and efficient way to check spectrograms or visualize sound.
+## 🚀 Features- 🎼 **Supports multiple audio formats**: MP3, AAC, M4A, FLAC, WAV, OGG, OPUS.- 🗂️ **Process individual files or entire folders**.
 - 🎨 **Generates high-quality spectrograms**.
 - 🔧 **Customizable music directory** to fit your file structure.
 - 📁 **Outputs spectrograms in a dedicated folder** within your music directory.
@@ -59,6 +60,8 @@ Alternatively, you can **edit the script** directly to set a permanent path.
 All spectrograms are stored inside a `Spectrograms` folder within the same directory as the processed audio files.
 
 ---
+
+
 
 ## 🤝 Contributing
 We welcome contributions! Feel free to fork the repository, submit pull requests, or report issues.
