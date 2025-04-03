@@ -72,6 +72,9 @@ Alternatively, you can **edit the script** directly to set a permanent path.
 
 ### **Where are Spectrograms Saved?**
 All spectrograms are stored inside a `Spectrograms` folder within the same directory as the processed audio files.
+![image alt](https://github.com/NetBreak-ops/Local-Music-Spectrogram-Gen/blob/237cc4c1176bd357b3b2fa69c4a6c91075f1ea3d/img/V%C3%98J%2C%20TRVNSPORTER%20-%20Lya%20Funk%20(Slowed).png)
+
+![image alt](https://github.com/NetBreak-ops/Local-Music-Spectrogram-Gen/blob/237cc4c1176bd357b3b2fa69c4a6c91075f1ea3d/img/Indila%20-%20Love%20Story.png)
 
 ---
 
